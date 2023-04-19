@@ -2,7 +2,6 @@ package dataFactory;
 
 import pojo.ComponentePojo;
 import pojo.ProdutoPojo;
-
 import java.util.ArrayList;
 import java.util.List;
 
